@@ -1,5 +1,5 @@
 {
-  "name": "vue-outline",
+  "name": "vue-outline-directory",
   "version": "4.0.3",
   "description": "A vue tool to generate a navigation for a web page",
   "keywords": [
@@ -19,9 +19,9 @@
     "url": "https://github.com/fz-lyle/vue-online2.git"
   },
   "license": "MIT",
-  "main": "dist/vue-outline.common.js",
-  "unpkg": "dist/vue-outline.min.js",
-  "module": "dist/vue-outline.esm.js",
+  "main": "dist/vue-outline-directory.common.js",
+  "unpkg": "dist/vue-outline-directory.min.js",
+  "module": "dist/vue-outline-directory.esm.js",
   "private": false,
   "files": [
     "dist"

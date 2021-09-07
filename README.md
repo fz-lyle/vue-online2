@@ -1,5 +1,7 @@
 # vue-outline
-<a href="./changeLog.md">更新日志（2020.07.09更新）</a>
+<a href="./changeLog.md">更新日志（2021.09.07更新）</a>
+
+修复清空内容后重新输入无法触发生成目录的bug
 
 一个Vue开发小工具，使用非常简单，你可以使用它来提取页面中一篇文章的标题，并生成目录树。
 demo效果：https://wintc.top/laboratory/#/outline
